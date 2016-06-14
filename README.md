@@ -1,9 +1,9 @@
 
 
-
+<p>
 <a id="user-content-header" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324"><img border="0" src="https://cloud.githubusercontent.com/assets/19661274/16028172/eb36cb2e-321f-11e6-90e4-c0677ebd0759.jpg" style="max-width:100%;"></a>
 
-<h3 class="slogan-01">--- 洞悉中國社會先機、商機、危機、生機，只需這裡一點 ---</h3>
+<img src="images/text-slogan_001.png">
 
 <a id="user-content-book-032" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/江澤民逼習近平反目成仇-41637146?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="江澤民逼習近平反目成仇"><img border="0" width="140" alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒"><img border="0" width="140" alt="習江三次生死交鋒" src="https://cloud.githubusercontent.com/assets/19661274/15989140/cf68ccdc-30b0-11e6-994e-ca0a6ac63bdc.jpg" style="max-width:100%;"></a>
@@ -18,7 +18,7 @@
 <a id="user-content-book-035" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/股市政變-李克強臨危受命-43453177?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="股市政變 - 李克強臨危受命"><img border="0" width="140" alt="股市政變 - 李克強臨危受命" src="https://cloud.githubusercontent.com/assets/19661274/15989146/cf9930a2-30b0-11e6-88af-7093c6d7d5c9.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-042" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平大外交背後政治廝殺-40688583?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平大外交背後的政治廝殺"><img border="0" width="140" alt="習近平大外交背後的政治廝殺" src="https://cloud.githubusercontent.com/assets/19661274/15989144/cf7381e0-30b0-11e6-88b5-95a94059cc3f.jpg" style="max-width:100%;"></a></p>
 
-<h3 class="slogan-02">聯繫我們： epochweekly2016@gmail.com, QQ:2784469293</h3>
+<img src="images/text-slogan_002.png">
 
 <p>
 <a id="user-content-book-040" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/慶親王-鐵帽子王-曾慶紅-55815877?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="慶親王.鐵帽子王.曾慶紅"><img border="0" width="140" alt="慶親王.鐵帽子王.曾慶紅" src="https://cloud.githubusercontent.com/assets/19661274/15994248/a0fc6362-3142-11e6-9bca-b245ff0478bc.jpg" style="max-width:100%;"></a>
