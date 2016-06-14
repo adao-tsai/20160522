@@ -70,6 +70,10 @@ section{background-color:#FFF;}
   font-weight: normal;
   color: #8A6327;
   }
+
+.slogan-01 {color:#2c0b16; text-align:center; width:100%;}
+.slogan-02 {color:#552200; background-color: #E3E2DB; padding:5px; text-align:center; width::100%;}
+
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
