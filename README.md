@@ -3,6 +3,10 @@
 
 <p><img src="images/text-slogan_001.png"></p>
 
+<p><img src="images/AD_Book_20160605.jpg"></p>
+
+<p><img src="images/H40BAR_C01.jpg"></p>
+
 <p>
 <a id="user-content-book-032" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/江澤民逼習近平反目成仇-41637146?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="江澤民逼習近平反目成仇"><img border="0" width="140" alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒"><img border="0" width="140" alt="習江三次生死交鋒" src="https://cloud.githubusercontent.com/assets/19661274/15989140/cf68ccdc-30b0-11e6-994e-ca0a6ac63bdc.jpg" style="max-width:100%;"></a>
@@ -54,3 +58,5 @@
 
 <p><a id="user-content-xjyweekly" href="https://github.com/zx168/XJY">新紀元周刊</a>每週三出刊
 <a id="user-content-xjyweekly" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324">新紀元電子商務網-新紀元書城</a>.</p>
+
+
