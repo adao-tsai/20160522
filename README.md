@@ -4,8 +4,7 @@
 
 <p><img src="images/text-slogan_001.png"></p>
 
-<p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="images/AD_BOOK_0043.jpg"></a></p>
-<a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大" target="_blank"><img src="images/AD_BOOK_0036.jpg" width="512px"></a><a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒" target="_blank"><img src="images/AD_BOOK_0024.jpg" width="512px"></a>
+<p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="images/1024_ADBK0043.jpg"></a></p>
 
 <p><img src="images/H40BAR_C01.jpg"></p>
 
@@ -22,6 +21,8 @@
 <a id="user-content-book-041" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/全中國坐等出事-83785724?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="全中國坐等出事"><img border="0" width="140" alt="全中國坐等出事" src="https://cloud.githubusercontent.com/assets/19661274/15989142/cf6f6d3a-30b0-11e6-8fa2-48cb8a4aff31.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-035" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/股市政變-李克強臨危受命-43453177?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="股市政變 - 李克強臨危受命"><img border="0" width="140" alt="股市政變 - 李克強臨危受命" src="https://cloud.githubusercontent.com/assets/19661274/15989146/cf9930a2-30b0-11e6-88af-7093c6d7d5c9.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-042" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平大外交背後政治廝殺-40688583?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平大外交背後的政治廝殺"><img border="0" width="140" alt="習近平大外交背後的政治廝殺" src="https://cloud.githubusercontent.com/assets/19661274/15989144/cf7381e0-30b0-11e6-88b5-95a94059cc3f.jpg" style="max-width:100%;"></a></p>
+
+<p><a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大" target="_blank"><img src="images/1024_ADBK0036.jpg"></a></p>
 
 <img src="images/text-slogan_002.png">
 
@@ -57,8 +58,11 @@
 <a id="user-content-book-002" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/中南海政治海嘯大揭秘-下-46857856?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」"><img border="0" width="140" alt="中南海政治海嘯全程大揭秘（下） 鮮為人知的胡錦濤「奪位戰」" src="https://cloud.githubusercontent.com/assets/19661274/15994438/2ea9a878-3148-11e6-8f2d-45fe89c92758.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-001" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/中南海政治海嘯大揭秘-上-87220062?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞"><img border="0" width="140" alt="中南海政治海嘯全程大揭秘（上） 習近平接班前的政變秘聞" src="https://cloud.githubusercontent.com/assets/19661274/15994439/2ea9f576-3148-11e6-830a-01a672509334.jpg" style="max-width:100%;"></a></p>
 
+<p><a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒" target="_blank"><img src="images/1024_ADBK0024.jpg"></a></p>
 
 <p><a id="user-content-xjyweekly" href="https://github.com/zx168/XJY">新紀元周刊</a>每週三出刊
 <a id="user-content-xjyweekly" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324">新紀元電子商務網-新紀元書城</a>.</p>
+
+<p>台灣：誠品、金石堂、博客來網路書店、機場等各大書店發售 | 香港/澳門：書店及旺角、尖沙咀、銅鑼灣、澳門—書報攤發售</p>
 
 
