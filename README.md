@@ -1,9 +1,11 @@
+
 <a id="user-content-header" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324"><img border="0" src="https://cloud.githubusercontent.com/assets/19661274/16028172/eb36cb2e-321f-11e6-90e4-c0677ebd0759.jpg" style="max-width:100%;"></a>
 
 
 <p><img src="images/text-slogan_001.png"></p>
 
-<p><img src="images/AD_Book_20160605.jpg"></p>
+<p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="images/AD_BOOK_0043.jpg"></a></p>
+<a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大" target="_blank"><img src="images/AD_BOOK_0036.jpg" width="512px"></a><a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒" target="_blank"><img src="images/AD_BOOK_0024.jpg" width="512px"></a>
 
 <p><img src="images/H40BAR_C01.jpg"></p>
 
