@@ -63,6 +63,6 @@
 <p><a id="user-content-xjyweekly" href="https://github.com/zx168/XJY">新紀元周刊</a>每週三出刊
 <a id="user-content-xjyweekly" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324">新紀元電子商務網-新紀元書城</a>.</p>
 
-<p>台灣：誠品、金石堂、博客來網路書店、機場等各大書店發售 | 香港/澳門：書店及旺角、尖沙咀、銅鑼灣、澳門—書報攤發售</p>
+<p>台灣：誠品、金石堂、博客來網路書店、機場等各大書店發售 | 香港/澳門書店及旺角、尖沙咀、銅鑼灣、澳門書報攤發售</p>
 
 
