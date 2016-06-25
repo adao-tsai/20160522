@@ -5,11 +5,11 @@
 <p><img src="images/text-slogan_001.png"></p>
 
 <p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="images/AD_BOOK_0043.jpg"></a></p>
-<a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大" target="_blank"><img src="images/AD_BOOK_0036.jpg" width="444px"></a><a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒" target="_blank"><img src="images/AD_BOOK_0024.jpg" width="444px"></a>
+<a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大" target="_blank"><img src="images/AD_BOOK_0036.jpg" width="512px"></a><a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒" target="_blank"><img src="images/AD_BOOK_0024.jpg" width="512px"></a>
 
 <p><img src="images/H40BAR_C01.jpg"></p>
 
-<p>
+<p class="books">
 <a id="user-content-book-032" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/江澤民逼習近平反目成仇-41637146?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="江澤民逼習近平反目成仇"><img border="0" width="140" alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-024" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江三次生死交鋒-86283711?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江三次生死交鋒"><img border="0" width="140" alt="習江三次生死交鋒" src="https://cloud.githubusercontent.com/assets/19661274/15989140/cf68ccdc-30b0-11e6-994e-ca0a6ac63bdc.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-036" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/王岐山佈陣-大-4564658?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="王岐山佈陣19大"><img border="0" width="140" alt="王岐山佈陣19大" src="https://cloud.githubusercontent.com/assets/19661274/15989145/cf9165d4-30b0-11e6-8bc2-eebf43a81bab.jpg" style="max-width:100%;"></a>
@@ -25,7 +25,7 @@
 
 <img src="images/text-slogan_002.png">
 
-<p>
+<p class="books">
 <a id="user-content-book-040" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/慶親王-鐵帽子王-曾慶紅-55815877?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="慶親王.鐵帽子王.曾慶紅"><img border="0" width="140" alt="慶親王.鐵帽子王.曾慶紅" src="https://cloud.githubusercontent.com/assets/19661274/15994248/a0fc6362-3142-11e6-9bca-b245ff0478bc.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-039" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習江同臺閱兵-中國亂局升級-2234030?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習江同臺閱兵 中國動盪升級"><img border="0" width="140" alt="習江同臺閱兵 中國動盪升級" src="https://cloud.githubusercontent.com/assets/19661274/15994238/a09c6700-3142-11e6-92f2-6b6901fc6525.jpg" style="max-width:100%;"></a>
 <a id="user-content-book-038" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/郭美美案的中南海絞殺-26701543?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="郭美美案的中南海絞殺"><img border="0" width="140" alt="郭美美案的中南海絞殺" src="https://cloud.githubusercontent.com/assets/19661274/15994239/a09eddfa-3142-11e6-8ccf-9fc82b32557c.jpg" style="max-width:100%;"></a>
@@ -60,5 +60,5 @@
 
 <p><a id="user-content-xjyweekly" href="https://github.com/zx168/XJY">新紀元周刊</a>每週三出刊
 <a id="user-content-xjyweekly" href="https://d6rojcwfw6e31.cloudfront.net/cn/books/shop?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324">新紀元電子商務網-新紀元書城</a>.</p>
-<p>台灣：誠品、金石堂、博客來網路書店、機場等各大書店發售 | 香港/澳門：書店及旺角、尖沙咀、銅鑼灣、澳門—書報攤發售</p>
+
 
