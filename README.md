@@ -5,11 +5,11 @@
 
 <p><img src="images/text-slogan_001.png"></p>
 
-<P><a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/新紀元中國時局暢銷書合集-86717373"><img src="images/1200-500ad3.jpg"></a></p>
-
+<P><a href="https://d6rojcwfw6e31.cloudfront.net/cn/book/新紀元中國時局暢銷書合集-86717373"><img src="images/1024x213_20160630.jpg"></a></p>
 <p><a id="user-content-book-043" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/習近平軍改揭秘-6035271?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="習近平軍改揭秘" target="_blank"><img src="images/1024_ADBK0043.jpg"></a></p>
 
 <p><img src="images/H40BAR_C01.jpg"></p>
+
 
 <p class="books">
 <a id="user-content-book-032" href="https://d6rojcwfw6e31.cloudfront.net/cn/book/江澤民逼習近平反目成仇-41637146?m=https://d6rojcwfw6e31.cloudfront.net&amp;q=234234343244324" title="江澤民逼習近平反目成仇"><img border="0" width="140" alt="江澤民逼習近平反目成仇" src="https://cloud.githubusercontent.com/assets/19661274/15989149/cfa15520-30b0-11e6-962b-d8b2ffdc4326.jpg" style="max-width:100%;"></a>
